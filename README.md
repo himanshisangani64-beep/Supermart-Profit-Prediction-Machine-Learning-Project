@@ -1,5 +1,18 @@
 # 🛒 Supermart Profit Prediction | Machine Learning Project
 
+## 📑 Table of Contents
+
+| No. | Section | No. | Section |
+|:---:|---|:---:|---|
+| 01 | [📌 Project Overview](#-project-overview) | 07 | [⚙️ Installation & Setup](#️-installation--setup)  |
+| 02 | [🎯 Project Objectives](#-project-objectives) | 08 | [📈 Example Prediction](#-example-prediction)|
+| 03 | [✨ Key Features](#-key-features) | 09 | [💡 Business Value](#-business-value) |
+| 04 | [🛠️ Technologies Used](#️-technologies-used) | 10 | [🚀 Future Improvements](#-future-improvements) |
+| 05 | [🤖 Machine Learning Algorithm](#-machine-learning-algorithm) | 11 |[👩‍💻 About the Author](#-about-the-author) |
+| 06 | [📊 Model Performance](#-model-performance) | 
+
+---
+
 ## 📌 Project Overview
 
 Supermart Profit Prediction is a Machine Learning-based web application developed using Python, Scikit-learn, and Streamlit.
@@ -30,12 +43,12 @@ An interactive Streamlit interface allows users to enter input values, upload a 
 
 | Technology | Purpose |
 |---|---|
-| Python | Programming Language |
+| Python | Programming Language |  
 | Pandas | Data Manipulation |
-| NumPy | Numerical Computation |
-| Scikit-learn | Machine Learning |
-| Matplotlib | Data Visualization |
-| Seaborn | Statistical Visualization |
+| NumPy | Numerical Computation | 
+| Scikit-learn | Machine Learning | 
+| Matplotlib | Data Visualization | 
+| Seaborn | Statistical Visualization 
 | Streamlit | Web Application |
 
 ## 🤖 Machine Learning Algorithm
@@ -45,11 +58,15 @@ An interactive Streamlit interface allows users to enter input values, upload a 
 The Linear Regression algorithm is used to predict Supermart profit based on the selected input features.
 
 ### Input Features
+
 - Sales Amount
 - Discount
 
 ### Target Variable
+
 - Profit
+
+**Learn More:** [Linear Regression – Scikit-learn Documentation](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html)
 
 ## 📊 Model Performance
 
@@ -65,34 +82,6 @@ The model was evaluated using training and testing datasets.
 | Testing MSE | 854,041.82 |
 
 **Note:** The model achieved a 92.77% R² score on the testing dataset.
-
-## 💻 Application Preview
-
-### Streamlit Dashboard
-
-Add your dashboard screenshots below:
-
-![Supermart Profit Prediction Dashboard](Images/dashboard.png)
-
-### Profit Prediction Result
-
-![Profit Prediction Result](Images/prediction.png)
-
-## 📂 Project Structure
-
-```text
-Supermart-Profit-Prediction/
-│
-├── app.py
-├── Sales_Profit.csv
-├── requirements.txt
-│
-├── Images/
-│   ├── dashboard.png
-│   └── prediction.png
-│
-└── README.md
-```
 
 ## ⚙️ Installation & Setup
 
@@ -142,10 +131,10 @@ streamlit run app.py
 - Experiment with additional regression algorithms.
 - Improve prediction performance through feature engineering.
 - Add more business-related input features.
-- Deploy the application on Streamlit Community Cloud.
+- Deploy the application on [Streamlit Community Cloud](https://share.streamlit.io/).
 - Add interactive business analytics and reporting.
 
-## 👩‍💻 Author
+## 👤 About the Author
 
 **Himanshi Sangani**
 
