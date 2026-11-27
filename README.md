@@ -66,7 +66,7 @@ The Linear Regression algorithm is used to predict Supermart profit based on the
 
 - Profit
 
-**Learn More:** [Linear Regression – Scikit-learn Documentation](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html)
+
 
 ## 📊 Model Performance
 
@@ -131,7 +131,6 @@ streamlit run app.py
 - Experiment with additional regression algorithms.
 - Improve prediction performance through feature engineering.
 - Add more business-related input features.
-- Deploy the application on [Streamlit Community Cloud](https://share.streamlit.io/).
 - Add interactive business analytics and reporting.
 
 ## 👤 About the Author
