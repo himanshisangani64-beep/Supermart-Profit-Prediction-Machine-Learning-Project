@@ -4,12 +4,13 @@
 
 | No. | Section | No. | Section |
 |:---:|---|:---:|---|
-| 01 | [📌 Project Overview](#-project-overview) | 07 | [⚙️ Installation & Setup](#️-installation--setup)  |
-| 02 | [🎯 Project Objectives](#-project-objectives) | 08 | [📈 Example Prediction](#-example-prediction)|
-| 03 | [✨ Key Features](#-key-features) | 09 | [💡 Business Value](#-business-value) |
-| 04 | [🛠️ Technologies Used](#️-technologies-used) | 10 | [🚀 Future Improvements](#-future-improvements) |
-| 05 | [🤖 Machine Learning Algorithm](#-machine-learning-algorithm) | 11 |[👩‍💻 About the Author](#-about-the-author) |
-| 06 | [📊 Model Performance](#-model-performance) | 
+| 01 | [📌 Project Overview](#-project-overview) |  07 | [📊 Model Performance](#-model-performance) | 
+| 02 | [🎯 Project Objectives](#-project-objectives) | 08 | [⚙️ Installation & Setup](#️-installation--setup)  |
+| 03 | [✨ Key Features](#-key-features) | 09 | [📈 Example Prediction](#-example-prediction)|
+| 04 | [🌐 Live Demo](#-live-demo) |10 | [💡 Business Value](#-business-value) |
+| 05 | [🛠️ Technologies Used](#️-technologies-used) | 11 | [🚀 Future Improvements](#-future-improvements) |
+| 06 | [🤖 Machine Learning Algorithm](#-machine-learning-algorithm) | 12 |[👩‍💻 About the Author](#-about-the-author) |
+
 
 ---
 
@@ -38,6 +39,16 @@ An interactive Streamlit interface allows users to enter input values, upload a 
 - 📈 Model Performance Evaluation
 - 📉 Actual vs Predicted Visualization
 - 🖥️ Interactive Streamlit Dashboard
+
+## 🌐 Live Demo
+
+🚀 **Try the Supermart Profit Prediction Application Live!**
+
+Experience the interactive Machine Learning application and predict estimated Supermart profit using Sales Amount and Discount.
+
+🔗 **[Click Here to Launch Live Application](https://supermart-profit-prediction-machine-learning-project-7xfe8mntv.streamlit.app/)**
+
+**Platform:** Streamlit Community Cloud
 
 ## 🛠️ Technologies Used
 
